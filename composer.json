@@ -1,0 +1,7 @@
+{
+  "name": "lukestokes/fio2eosio",
+  "require": {
+    "guzzlehttp/guzzle": "^6.3",
+    "rakibtg/sleekdb": "^2.5"    
+  }
+}
